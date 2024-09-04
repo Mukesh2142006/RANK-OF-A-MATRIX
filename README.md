@@ -22,10 +22,10 @@ end the program
 #Program to find the rank of a matrix.
 #Developed by: MUKESH
 #RegisterNumber: 212223230128
-import numpy as np
-matrix = np.array([[3, 2, 5], [1, 1, 2], [3, 3, 6]])
-rank = np.linalg.matrix_rank(matrix)
-print(f"{rank}")
+#import numpy as np
+#matrix = np.array([[3, 2, 5], [1, 1, 2], [3, 3, 6]])
+#rank = np.linalg.matrix_rank(matrix)
+#print(f"{rank}")
 
 ## Output:
 ![Screenshot 2024-09-03 180725](https://github.com/user-attachments/assets/46a4c079-4ccc-44b9-bacb-ed1f78933482)
